@@ -1,0 +1,299 @@
+
+objects.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dialog
+  rotate: false
+  xy: 1, 388
+  size: 374, 292
+  orig: 374, 292
+  offset: 0, 0
+  index: -1
+text-logo
+  rotate: false
+  xy: 377, 566
+  size: 529, 114
+  orig: 529, 114
+  offset: 0, 0
+  index: -1
+help-1
+  rotate: false
+  xy: 1, 134
+  size: 313, 252
+  orig: 313, 252
+  offset: 0, 0
+  index: -1
+text-stage
+  rotate: false
+  xy: 377, 512
+  size: 400, 52
+  orig: 400, 52
+  offset: 0, 0
+  index: -1
+text-win
+  rotate: false
+  xy: 1, 41
+  size: 310, 91
+  orig: 310, 91
+  offset: 0, 0
+  index: -1
+text-fail
+  rotate: false
+  xy: 377, 421
+  size: 295, 89
+  orig: 295, 89
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 908, 580
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+help-2
+  rotate: false
+  xy: 377, 209
+  size: 261, 210
+  orig: 261, 210
+  offset: 0, 0
+  index: -1
+tom-finish
+  rotate: false
+  xy: 640, 219
+  size: 150, 200
+  orig: 150, 200
+  offset: 0, 0
+  index: -1
+power-control
+  rotate: false
+  xy: 316, 151
+  size: 225, 56
+  orig: 225, 56
+  offset: 0, 0
+  index: -1
+text-hscore
+  rotate: false
+  xy: 316, 88
+  size: 210, 61
+  orig: 210, 61
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 313, 4
+  size: 150, 82
+  orig: 150, 82
+  offset: 0, 0
+  index: -1
+bt-about
+  rotate: false
+  xy: 779, 494
+  size: 145, 70
+  orig: 145, 70
+  offset: 0, 0
+  index: -1
+tom-menu
+  rotate: false
+  xy: 792, 292
+  size: 116, 200
+  orig: 116, 200
+  offset: 0, 0
+  index: -1
+canon
+  rotate: false
+  xy: 792, 217
+  size: 149, 73
+  orig: 149, 73
+  offset: 0, 0
+  index: -1
+ic-menu
+  rotate: false
+  xy: 674, 422
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+bt-more
+  rotate: false
+  xy: 640, 147
+  size: 145, 70
+  orig: 145, 70
+  offset: 0, 0
+  index: -1
+bt-play
+  rotate: false
+  xy: 787, 145
+  size: 145, 70
+  orig: 145, 70
+  offset: 0, 0
+  index: -1
+ic-replay
+  rotate: false
+  xy: 543, 119
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+bt-menu
+  rotate: false
+  xy: 465, 3
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+frame-stage
+  rotate: false
+  xy: 550, 16
+  size: 102, 101
+  orig: 102, 101
+  offset: 0, 0
+  index: -1
+bt-soundoff
+  rotate: false
+  xy: 654, 57
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+jerry-menu
+  rotate: false
+  xy: 926, 478
+  size: 71, 100
+  orig: 71, 100
+  offset: 0, 0
+  index: -1
+bt-soundon
+  rotate: false
+  xy: 910, 388
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+tom
+  rotate: false
+  xy: 910, 299
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+bt-submit
+  rotate: false
+  xy: 654, 13
+  size: 89, 42
+  orig: 89, 42
+  offset: 0, 0
+  index: -1
+stage-lock
+  rotate: false
+  xy: 943, 225
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+brick
+  rotate: false
+  xy: 1, 1
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+arrow-left
+  rotate: false
+  xy: 743, 68
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+arrow-right
+  rotate: false
+  xy: 820, 68
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+stage-unlock
+  rotate: false
+  xy: 745, 2
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+cake
+  rotate: false
+  xy: 824, 3
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 897, 74
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+bt-next
+  rotate: false
+  xy: 316, 336
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+bt-replay
+  rotate: false
+  xy: 316, 284
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+dark
+  rotate: false
+  xy: 316, 232
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+star-0
+  rotate: false
+  xy: 40, 14
+  size: 72, 25
+  orig: 72, 25
+  offset: 0, 0
+  index: -1
+star-1
+  rotate: false
+  xy: 114, 14
+  size: 72, 25
+  orig: 72, 25
+  offset: 0, 0
+  index: -1
+star-2
+  rotate: false
+  xy: 188, 14
+  size: 72, 25
+  orig: 72, 25
+  offset: 0, 0
+  index: -1
+star-3
+  rotate: false
+  xy: 897, 48
+  size: 72, 24
+  orig: 72, 24
+  offset: 0, 0
+  index: -1
+bt-exit
+  rotate: false
+  xy: 890, 3
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+jerry
+  rotate: false
+  xy: 934, 153
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
